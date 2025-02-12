@@ -9,6 +9,11 @@ import Fullbody from './components/Exercises/Fullbody';
 import Upperbody from './components/Exercises/Upperbody';
 import Lowerbody from './components/Exercises/Lowerbody';
 import Cardio from './components/Exercises/Cardio';
+import Flexibility from './components/Exercises/Flexibility';
+import Core from './components/Exercises/Core';
+import Strength from './components/Exercises/Strength';
+import Yoga from './components/Exercises/Yoga';
+import Split from './components/Exercises/Split';
 
 function App() {
 
@@ -24,6 +29,11 @@ function App() {
             <Route path='/workouts/upperbody' element={<Upperbody />}/>
             <Route path='/workouts/lowerbody' element={<Lowerbody />}/>
             <Route path='/workouts/cardio' element={<Cardio />}/>
+            <Route path='/workouts/flexibility' element={<Flexibility />}/>
+            <Route path='/workouts/core' element={<Core />}/>
+            <Route path='/workouts/strength' element={<Strength />}/>
+            <Route path='/workouts/yoga' element={<Yoga />}/>
+            <Route path='/workouts/split' element={<Split />}/>
             <Route path='/notes' element={<Notes />}/>
           </Routes>
           <footer>
