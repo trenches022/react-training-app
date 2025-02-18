@@ -54,7 +54,7 @@ const Exercises = () => {
     },
     {
       id: 9,
-      name: "3-Day Split",
+      name: "Split",
       level: "średniozaawansowany",
       link: '/workouts/split'
     },
