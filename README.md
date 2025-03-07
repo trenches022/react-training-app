@@ -4,7 +4,7 @@ A React.js fitness application that helps users stay in shape by offering a vari
 
 🚀 In the future, the app will include personalized notes, progress tracking, and advanced workout plans!
 
-![Training App Screenshot](https://raw.githubusercontent.com/trenches022/react-training-app/main/gym-app-screenshot2.png)
+![Training App Screenshot](https://raw.githubusercontent.com/trenches022/react-training-app/main/assets/gym-app-screenshot2.png)
 
 #  Key Features
 
@@ -69,10 +69,10 @@ A React.js fitness application that helps users stay in shape by offering a vari
 
 # 🎨 UI Preview
 
-![Training App Screenshot](https://raw.githubusercontent.com/trenches022/react-training-app/main/gym-app-screenshot1.png)
-![Training App Screenshot](https://raw.githubusercontent.com/trenches022/react-training-app/main/gym-app-screenshot.png)
-![Training App Screenshot](https://raw.githubusercontent.com/trenches022/react-training-app/main/gym-app-screenshot3.png)
-![Training App Screenshot](https://raw.githubusercontent.com/trenches022/react-training-app/main/gym-app-screenshot4.png)
+![Training App Screenshot](https://raw.githubusercontent.com/trenches022/react-training-app/main/assets/gym-app-screenshot1.png)
+![Training App Screenshot](https://raw.githubusercontent.com/trenches022/react-training-app/main/assets/gym-app-screenshot.png)
+![Training App Screenshot](https://raw.githubusercontent.com/trenches022/react-training-app/main/assets/gym-app-screenshot3.png)
+![Training App Screenshot](https://raw.githubusercontent.com/trenches022/react-training-app/main/assets/gym-app-screenshot4.png)
 
 # Future Plans
 
